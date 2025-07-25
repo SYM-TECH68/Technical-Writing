@@ -132,11 +132,3 @@ convert("README.md", output_format="html")
 ![Demo GIF](demo.gif)
 ```
 
----
-
-### **Tools to Help**
-- **Editors**: VS Code (with Markdown preview), Obsidian, Typora.  
-- **Linters**: Markdownlint to enforce consistency.  
-- **Templates**: GitHub’s [README Templates](https://github.com/othneildrew/Best-README-Template).  
-
-A great README answers **what**, **why**, and **how** while inviting collaboration. Prioritize clarity! 🚀
